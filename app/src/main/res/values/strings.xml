@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="price">от %s р.</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="shopping_cart">Корзина</string>
+</resources>
